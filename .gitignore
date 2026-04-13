@@ -2,7 +2,6 @@
 .idea
 .phpunit.result.cache
 .phpunit.cache
-.vscode
 build
 composer.lock
 coverage
@@ -12,3 +11,4 @@ phpunit.xml
 phpstan.neon
 testbench.yaml
 vendor
+config.bat
